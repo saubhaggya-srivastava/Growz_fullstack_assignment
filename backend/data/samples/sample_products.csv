@@ -1,0 +1,51 @@
+productCode,name,brand,category
+P001,Premium Biscuits,Brand A,Snacks
+P002,Chocolate Cookies,Brand A,Snacks
+P003,Wheat Crackers,Brand A,Snacks
+P004,Instant Noodles,Brand B,Food
+P005,Pasta Sauce,Brand B,Food
+P006,Tomato Ketchup,Brand B,Condiments
+P007,Mayonnaise,Brand B,Condiments
+P008,Orange Juice,Brand C,Beverages
+P009,Apple Juice,Brand C,Beverages
+P010,Mineral Water,Brand C,Beverages
+P011,Energy Drink,Brand C,Beverages
+P012,Potato Chips,Brand D,Snacks
+P013,Corn Chips,Brand D,Snacks
+P014,Pretzels,Brand D,Snacks
+P015,Chocolate Bar,Brand E,Confectionery
+P016,Candy Pack,Brand E,Confectionery
+P017,Chewing Gum,Brand E,Confectionery
+P018,Instant Coffee,Brand A,Beverages
+P019,Green Tea,Brand A,Beverages
+P020,Black Tea,Brand A,Beverages
+P021,Cooking Oil,Brand B,Food
+P022,Rice Pack,Brand B,Food
+P023,Flour Pack,Brand B,Food
+P024,Sugar Pack,Brand B,Food
+P025,Salt Pack,Brand B,Condiments
+P026,Pepper Pack,Brand B,Condiments
+P027,Soy Sauce,Brand B,Condiments
+P028,Vinegar,Brand B,Condiments
+P029,Honey Jar,Brand C,Food
+P030,Jam Jar,Brand C,Food
+P031,Peanut Butter,Brand C,Food
+P032,Cereal Box,Brand D,Food
+P033,Oatmeal Pack,Brand D,Food
+P034,Granola Bar,Brand D,Snacks
+P035,Protein Bar,Brand D,Snacks
+P036,Yogurt Cup,Brand E,Dairy
+P037,Milk Carton,Brand E,Dairy
+P038,Cheese Block,Brand E,Dairy
+P039,Butter Pack,Brand E,Dairy
+P040,Ice Cream Tub,Brand E,Dairy
+P041,Frozen Pizza,Brand A,Food
+P042,Frozen Vegetables,Brand A,Food
+P043,Canned Beans,Brand B,Food
+P044,Canned Corn,Brand B,Food
+P045,Canned Tomatoes,Brand B,Food
+P046,Soup Can,Brand C,Food
+P047,Tuna Can,Brand C,Food
+P048,Salmon Can,Brand C,Food
+P049,Chicken Nuggets,Brand D,Food
+P050,Fish Sticks,Brand D,Food

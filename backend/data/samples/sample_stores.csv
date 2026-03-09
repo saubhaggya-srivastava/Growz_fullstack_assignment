@@ -1,0 +1,21 @@
+storeCode,name,regionCode
+S001,Downtown Store,R001
+S002,Mall Store,R001
+S003,Airport Store,R001
+S004,Highway Store,R001
+S005,Beach Store,R002
+S006,Harbor Store,R002
+S007,Coastal Store,R002
+S008,Suburb Store,R002
+S009,City Center Store,R003
+S010,Metro Store,R003
+S011,Plaza Store,R003
+S012,Market Store,R003
+S013,Valley Store,R004
+S014,Mountain Store,R004
+S015,Desert Store,R004
+S016,Lake Store,R004
+S017,Central Plaza,R005
+S018,Main Street Store,R005
+S019,Park Avenue Store,R005
+S020,Station Store,R005
